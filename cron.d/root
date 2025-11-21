@@ -1,0 +1,1 @@
+0 */2 * * * /data/adb/modules/android-fstrim/auto_trim.sh
